@@ -1,10 +1,11 @@
 # CAPAAL 1.0
 
-[RU] CAPAAL — лицензия открытого программного обеспечения, разработанная объединением [CAPAA](https://capaa.ru).  
 
-[EN] CAPAAL is an opensource software license developed by the [CAPAA association](https://capaa.ru).
+        
+[RU] **Лицензия CAPAAL (CAPAA License)** — это лицензия программного обеспечения с открытым исходным кодом, разработанная для обеспечения свободного распространения ПО в мире, затронутом политическими и экономическими санкциями. Эта лицензия не только предоставляет стандартные свободы открытого ПО, но и явно запрещает использование санкций или подобных ограничений для ограничения доступа, модификации или распространения программного обеспечения. CAPAAL стремится поддерживать свободный поток технологий и знаний через границы, независимо от геополитических обстоятельств, оставаясь при этом совместимой с популярными лицензиями открытого исходного кода, такими как MIT и Apache 2.0. Разработанная объединением [CAPAA](https://capaa.ru).
 
-![](assets/capaal.png)
+
+[EN] **CAPAAL (CAPAA License)** is an open-source software license designed to ensure unrestricted software distribution in a world affected by political and economic sanctions. This license not only provides the standard freedoms of open-source software but also explicitly prohibits the use of sanctions or similar restrictions to limit software access, modification, or distribution. CAPAAL aims to maintain the free flow of technology and knowledge across borders, regardless of geopolitical circumstances, while remaining compatible with popular open-source licenses like MIT and Apache 2.0. Developed by the [CAPAA association](https://capaa.ru).
 
 ## Versions | Версии
 
