@@ -1,3 +1,6 @@
+# CAPAAL License (CAPAA License)  
+Version 1.0 — [https://capaal.com](https://capaal.com)
+
 Short Summary (in English)
 - Free to use, modify, and distribute the Software.
 - Provided "as is", without warranties.
